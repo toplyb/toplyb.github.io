@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: XiaoSheng'Blog
+subtitle: '三月小生'
+description: '三月小生的学习记录，日常生活'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: XiaoSheng
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
